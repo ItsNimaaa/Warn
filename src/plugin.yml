@@ -1,0 +1,14 @@
+name: Warnings
+main: net.Pixelors.warn.Warnings
+version: 1.0
+
+
+commands:
+  warn:
+    description: Pixelors private custom warn plugin!
+   
+      
+     
+      
+      
+     
